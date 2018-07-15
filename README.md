@@ -20,7 +20,7 @@ WhiteList:
 # More
 ```
 ## 下载 download
-[version1.0](https://github.com/BAQCStudio/CHYMWorlds/releases/download/v1.0/CHYMWorlds.jar) 
+[version1.0](https://github.com/BAQCStudio/CHYMWorlds/releases/download/v1.0/CHYMWorlds.jar)   
 Copyright by [彼岸倾城工作室](https://baqcstudio.github.io/home) 
 
  
