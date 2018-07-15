@@ -1,4 +1,5 @@
 # CHYMWorlds
+
 一款使用GUI切换世界的nukkit插件  
 
 A nukkit plugin that uses GUI to switch the world
@@ -18,7 +19,8 @@ WhiteList:
 - world
 # More
 ```
- 
+## 下载 download
+[version1.0](https://github.com/BAQCStudio/CHYMWorlds/releases/download/v1.0/CHYMWorlds.jar) 
 Copyright by [彼岸倾城工作室](https://baqcstudio.github.io/home) 
 
  
