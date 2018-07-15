@@ -19,5 +19,6 @@ WhiteList:
 # More
 ```
  
+Copyright by [彼岸倾城工作室](https://baqcstudio.github.io/home) 
 
-
+ 
