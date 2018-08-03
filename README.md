@@ -11,7 +11,7 @@ Use one item in the config, click the ground and appear GUI, click the selected 
 并且可以设置世界白名单，只有在名单内的世界会被显示在GUI内
 
 And you can set up the world whitelist. Only the world in the list will be displayed in GUI.
-## 配置 Config
+## 配置 Configure
 plugins/CHYMWorlds/data.yml
 ```
 item: 381:1 
