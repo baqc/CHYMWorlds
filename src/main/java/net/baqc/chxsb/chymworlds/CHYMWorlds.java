@@ -1,4 +1,4 @@
-package net.baqc.chym.worlds;
+package net.baqc.chxsb.chymworlds;
 
 import cn.nukkit.plugin.PluginBase;
 import cn.nukkit.utils.Config;
@@ -30,9 +30,9 @@ public class CHYMWorlds extends PluginBase {
         }
         config.save();
         instance = this;
-        getServer().getPluginManager().registerEvents(new net.baqc.chym.worlds.events.FormEvent(), this);
+        getServer().getPluginManager().registerEvents(new net.baqc.chxsb.chymworlds.FormEvent(), this);
         LoadAllLevels();
-        getServer().getLogger().info(TextFormat.GREEN + "CHYMWorlds 已载入");
+        getServer().getLogger().info(TextFormat.GREEN + "CHYMWorlds 已载入 https://github.com/CHXSB/CHYMWorlds ");
     }
 
     @Override
