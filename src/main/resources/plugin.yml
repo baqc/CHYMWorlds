@@ -1,0 +1,7 @@
+name: CHYMWorlds
+main: net.baqc.chxsb.chymworlds.CHYMWorlds
+version: "1.0.0"
+api: ["1.0.0"]
+load: POSTWORLD
+author: Shangxin && LixWorth
+
