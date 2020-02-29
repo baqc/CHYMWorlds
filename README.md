@@ -3,6 +3,8 @@
 一款使用GUI切换世界的nukkit插件  
 
 A nukkit plugin that uses GUI to switch the world
+
+# 插件新版本及后续更新请查看[minebbs](https://www.minebbs.com/resources/chymworlds.167/) 
 ## 使用方法 How to use
 使用配置内的一个物品，点击地面，弹出GUI，点击选中世界就会跳转到对应世界。
 
@@ -21,7 +23,7 @@ WhiteList:
 ```
 ## 下载 download
 [github](https://github.com/CHXSB/CHYMWorlds/releases/download/1.0/CHYMWorlds-1.0-SNAPSHOT.jar)   
-[minebbs](https://www.minebbs.com/resources/chymworlds.167/)
+[minebbs](https://www.minebbs.com/resources/chymworlds.167/) 
 ## Copyright by [彼岸倾城工作室](https://baqcstudio.github.io/home) 
 
  
